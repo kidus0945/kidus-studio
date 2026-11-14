@@ -1,0 +1,6 @@
+{
+  "name": "Zema — Amharic Audio Studio",
+  "description": "Convert Amharic text and dialogues into natural-sounding WAV audio with studio voice and delivery controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
